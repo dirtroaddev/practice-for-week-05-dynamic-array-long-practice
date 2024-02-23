@@ -4,7 +4,7 @@
   "description": "",
   "main": "dynamic-array.js",
   "scripts": {
-    "test": "mocha"
+    "test": "npx mocha"
   },
   "author": "",
   "license": "ISC",
